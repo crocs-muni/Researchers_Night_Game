@@ -9,4 +9,4 @@ for messages and if received message RSSI is larger than set treshold, then disp
 single character, using Morse code and LEDs. This character is unique per node ID.  
 
 
-Created by Martin Stehlik
+Created by Martin Stehlik, uploaded and tested by Lukas Nemec 
